@@ -4,9 +4,16 @@
         <description><![CDATA[Evenrud Fuglehundsenter]]></description>
         <link>https://thegrid.ai/evenrud-fuglehundsenter/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 30 May 2017 01:45:33 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Jun 2017 16:35:03 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/evenrud-fuglehundsenter/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 30 May 2017 01:44:38 GMT</pubDate>
+        <pubDate>Thu, 01 Jun 2017 16:34:51 GMT</pubDate>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>https://m.facebook.com/story.php?story_fbid=10155424020882320&amp;substory_index=0&amp;id=171562297319</p>]]></description>
+            <link>https://thegrid.ai/evenrud-fuglehundsenter/httpsmfacebookcomstoryphpstory_fbid1015542402088232/index.html</link>
+            <guid isPermaLink="false">b98bfb35-b0ef-4932-8711-98222206932f</guid>
+            <pubDate>Thu, 01 Jun 2017 16:34:50 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<article><img src="https://scontent.xx.fbcdn.net/v/t1.0-9/s720x720/17098313_1267225013353210_2093568400635155028_n.jpg?oh=6d04bc6d83d64cfce5182ffb7c5f178a&oe=59A7F49A"></article>]]></description>
@@ -69,13 +76,6 @@
             <link>https://thegrid.ai/evenrud-fuglehundsenter/spike/index.html</link>
             <guid isPermaLink="false">44efe146-f99b-4c7d-9e57-0a0e7c36955f</guid>
             <pubDate>Wed, 19 Oct 2016 10:02:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[TippsiRypa]]></title>
-            <description><![CDATA[<p>Dronevideo fra onsdagstreningen 5.10.16</p>,<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FjGv__VRmS0s%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DjGv__VRmS0s&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FjGv__VRmS0s%2Fhqdefault.jpg&key=b7d04c9b404c499eba89ee7072e1c4f7&type=text%2Fhtml&schema=youtube" width="640" height="360" scrolling="no" frameborder="0" allowfullscreen></iframe>]]></description>
-            <link>https://thegrid.ai/evenrud-fuglehundsenter/tippsirypa/index.html</link>
-            <guid isPermaLink="false">8d7ad36f-8c48-4308-af11-0eed446960fd</guid>
-            <pubDate>Fri, 07 Oct 2016 20:54:41 GMT</pubDate>
         </item>
     </channel>
 </rss>
