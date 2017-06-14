@@ -1,10 +1,33 @@
-name: Evenrud Fuglehundsenter
-analytics: {}
+typography_spectrum: 0.6725876306463033
+content_rating:
+  adult: false
+color:
+  lightness: 0.5889401102942958
+  brandColors:
+    - '#000000'
+    - '#FF1E00'
+    - '#4F0B01'
+    - '#7A1102'
+    - '#D81F04'
+  saturation: 0.1918649874393376
+  brandStrength: 0.3595448431923137
+  rhythmicContrast: 0.2931161226820901
 github: true
-description: Hvor gode hunder blir til...
+opengraph: {}
+layout_spectrum: 0.0733771444762144
+analytics: {}
 author:
   name: Dag Roger Berg
   email: dagroger@evenrud.biz
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/7bbfde36-3940-47df-986f-c439fa9292e7.png
+name: Evenrud Fuglehundsenter
+navigation:
+  - name: Hunde Hotell
+    id: 5cc4cf98-3e94-46b7-aeb0-d4e0a3bb4047
+    type: content
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/e8e705c8-16fd-45da-bc66-0b82fa5a081b.png
 collections:
   - index:
       path: /
@@ -17,6 +40,7 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
+title: Evenrud Fuglehundsenter
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
     type: image
@@ -26,42 +50,22 @@ content:
     src: >-
       https://the-grid-user-content.s3-us-west-2.amazonaws.com/5c6dd039-2ee9-4117-8ad4-7c6665ae03c8.png
     metadata:
-      author: []
       datePublished: null
       keywords: []
+      related: []
+      author: []
+      '@context': 'http://schema.org'
       '@type': MediaObject
+      app_links: []
       publisher:
         favicon: null
         url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
         name: The-grid-user-content
         domain: the-grid-user-content.s3-us-west-2.amazonaws.com
       description: ''
-      related: []
-      app_links: []
-      '@context': 'http://schema.org'
     title: !<tag:yaml.org,2002:js/undefined> ''
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
-layout_spectrum: 0.0733771444762144
-color:
-  lightness: 0.5889401102942958
-  brandColors:
-    - '#000000'
-    - '#FF1E00'
-    - '#4F0B01'
-    - '#7A1102'
-    - '#D81F04'
-  saturation: 0.1918649874393376
-  brandStrength: 0.3595448431923137
-  rhythmicContrast: 0.2931161226820901
-favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/e8e705c8-16fd-45da-bc66-0b82fa5a081b.png
-content_rating:
-  adult: false
-typography_spectrum: 0.6725876306463033
 coverPrefs:
   filter: false
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/7bbfde36-3940-47df-986f-c439fa9292e7.png
-title: Evenrud Fuglehundsenter
-opengraph: {}
+description: Hvor gode hunder blir til...
