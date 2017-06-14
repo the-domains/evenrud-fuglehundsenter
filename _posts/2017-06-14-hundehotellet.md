@@ -1,16 +1,18 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2017-06-14T10:35:38.329Z'
-datePublished: '2017-06-14T10:35:57.308Z'
+dateModified: '2017-06-14T10:38:06.443Z'
+datePublished: '2017-06-14T10:38:07.035Z'
 title: Hundehotellet
 author: []
 publisher: {}
 via: {}
+sourcePath: _posts/2017-06-14-hundehotellet.md
+hasPage: true
 starred: false
 datePublishedOriginal: '2017-06-14T10:35:57.308Z'
-sourcePath: _posts/2017-06-14-hundehotellet.md
-_type: Blurb
+url: hundehotellet/index.html
+_type: Article
 
 ---
 Hundehotellet
