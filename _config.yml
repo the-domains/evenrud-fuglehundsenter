@@ -69,3 +69,7 @@ content:
 coverPrefs:
   filter: false
 description: Hvor gode hunder blir til...
+purpose:
+  - type: contact
+    url: 'mailto:dagroger74@gmail.com'
+    label: Contact us
