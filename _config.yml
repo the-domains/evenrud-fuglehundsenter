@@ -73,3 +73,6 @@ purpose:
   - type: contact
     url: 'mailto:dagroger74@gmail.com'
     label: Contact us
+  - type: external
+    url: 'http://www.workwearnorge.no'
+    label: Carhartt
