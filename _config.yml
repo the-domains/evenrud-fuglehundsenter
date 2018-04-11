@@ -22,6 +22,9 @@ purpose:
   - type: contact
     label: Contact us
     url: 'mailto:dagroger74@gmail.com'
+  - type: contact
+    label: Call Us
+    url: 'tel:+4746630459'
 title: Evenrud Fuglehundsenter
 description: Hvor gode hunder blir til...
 author:
