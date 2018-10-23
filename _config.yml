@@ -1,23 +1,25 @@
+layout_spectrum: 0.34043963730141596
+typography_spectrum: 0.6819170148413407
+color:
+  brandColors:
+    - '#E6E2AF'
+    - '#A7A37E'
+    - '#EFECCA'
+    - '#046380'
+    - '#002F2F'
+  brandStrength: 0.8587254236470723
+  lightness: 0.27940269669563983
+  saturation: 0.4745752974231681
+  rhythmicContrast: 0.7418475690100452
+coverPrefs:
+  filter: false
 name: Evenrud Fuglehundsenter
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/e8e705c8-16fd-45da-bc66-0b82fa5a081b.png
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/7bbfde36-3940-47df-986f-c439fa9292e7.png
-layout_spectrum: 0.0733771444762144
-typography_spectrum: 0.6725876306463033
 analytics: {}
 opengraph: {}
-color:
-  brandColors:
-    - '#000000'
-    - '#FF1E00'
-    - '#4F0B01'
-    - '#7A1102'
-    - '#D81F04'
-  brandStrength: 0.3595448431923137
-  lightness: 0.5889401102942958
-  saturation: 0.1918649874393376
-  rhythmicContrast: 0.2931161226820901
 purpose:
   - type: contact
     label: Contact us
